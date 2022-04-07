@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Привет, меня зовут Радик <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="100"></h1>
 
-<!--
-**Radik0304/Radik0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300">
+</div>  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: Обо мне :
+Я начинающий фронтенд-разработчик из Самары. Начал свой путь в программировании в октябре 2021 года.   
+- :student: На данный момент являюсь студентом курса от Яндекс.Практикума.  
+- :computer: Имею навыки по адаптивной верстке, работе с JavaScript, React.
+- :calling: Связь со мной : https://t.me/SMR_Radik_Tarzemanov
+
+---
+
+### :hammer_and_wrench: Языки и инструменты :  
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" >&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40">&nbsp;
+
