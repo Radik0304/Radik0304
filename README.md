@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Радик <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="100"></h1>
+<h1 align="center"> Hello! I am Radik <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="100"></h1>
 
 <div align="center">
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300">
@@ -8,7 +8,7 @@
 
 ### :man_technologist: Обо мне :
 Фронтенд-разработчик из Самары. Начал свой путь в программировании в октябре 2021 года.   
-- :computer: Основной стек - Html, Css, Vue, Boostrap
+- :computer: Основной стек - Html, Css, Js, Vue2, Vue3
 - :calling: Связь со мной : https://t.me/@john_dillinger777
 
 ---
