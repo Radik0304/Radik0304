@@ -8,7 +8,7 @@
 
 ### :man_technologist: Обо мне :
 Фронтенд-разработчик из Самары. Начал свой путь в программировании в октябре 2021 года.   
-- :computer: Основной стек - Html, Css, Js, Vue2, Vue3
+- :computer: Основной стек - Html, Css, Js, Vue, React
 - :calling: Связь со мной : https://t.me/@john_dillinger777
 
 ---
